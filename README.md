@@ -1,5 +1,11 @@
 # Store
 
+Projeto criado através da formação Angular na plataforma da Dio.
+
+O objetivo era recriar a página inicial a PlayStation Store e aprender a criar componentes a nível de átomo.
+
+Como não era o foco do curso, utilizei os meus conhecimentos em CSS para fazer a versão mobile e assim criar um ambiente adequado para responsividade.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
 
 ## Development server
